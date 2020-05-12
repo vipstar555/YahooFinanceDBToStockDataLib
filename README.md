@@ -1,0 +1,2 @@
+# YahooFinanceDBToStockDataLib
+ヤフーファイナンスDBから株価を生成するクラス
